@@ -1,4 +1,4 @@
-## Here is a new uypdate by pablomata1
+## Here is a new update by pablomata1
 
 # Shipping Cost Calculator
 
